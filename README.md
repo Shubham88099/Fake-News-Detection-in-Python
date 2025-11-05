@@ -49,6 +49,10 @@ This project aims to detect fake news using Python and machine learning. The mod
  * nltk
  * wordcloud
 
+ # Dataset
+  https://github.com/lutzhamel/fake-news.git
+ 
+
  # Results
 
   * Achieved ~95% accuracy with Logistic Regression and TfidfVectorizer.
